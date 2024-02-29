@@ -1,7 +1,7 @@
 SWE @ Startup
 
 
-buckbeak@amazon.com
+nadav@shemer.org
 
 <!---
 nadav-shemer/nadav-shemer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
