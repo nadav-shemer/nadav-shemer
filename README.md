@@ -1,7 +1,6 @@
 SWE @ Startup
 
-
-nadav@shemer.org
+shemer@majestic-labs.ai
 
 <!---
 nadav-shemer/nadav-shemer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
